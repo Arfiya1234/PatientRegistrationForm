@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Patient Registration Form</string>
+    <string name="gender">gender</string>
+    <string-array name="DoctorType">
+        <item>****choose your Doctor</item>
+        <item>Cardiologist</item>
+        <item>Orthopedic</item>
+        <item>Dentist</item>
+        <item>Ent Specialist</item>
+        <item>Gynaecologist</item>
+        <item>Pediatrician</item>
+        <item>Dermatologist</item>
+        <item>Urologist</item>
+        <item>Oncologist</item>
+        <item>Neurologist</item>
+
+    </string-array>
+
+
+
+
+</resources>
+
+
